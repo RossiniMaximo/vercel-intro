@@ -9,5 +9,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next"
+  },
+  "dependencies": {
+    "next": "^12.1.5"
   }
 }
